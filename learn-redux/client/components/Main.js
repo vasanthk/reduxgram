@@ -8,6 +8,7 @@ const Main = React.createClass({
         <h1>
           <Link to="/">Reduxgram</Link>
         </h1>
+        {/* Didn't understand why this React.cloneElement (Covered in Video 11)*/}
         {React.cloneElement(this.props.children, this.props)}
       </div>
     );
