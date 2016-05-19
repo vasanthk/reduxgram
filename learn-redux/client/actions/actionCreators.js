@@ -24,4 +24,3 @@ export function removeComment(postId, i) {
     postId
   }
 }
-
