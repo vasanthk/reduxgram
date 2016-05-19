@@ -1,4 +1,4 @@
 # Reduxgram
 
-Trying out Wesbos' course on Redux
+Trying out Wesbos' [course](https://learnredux.com/) on Redux.
 
