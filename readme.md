@@ -4,5 +4,7 @@ Code for Reduxgrams built using instructions on Wesbos' [course](https://learnre
 
 Run `npm install` in the folder `learn-redux`.
 
-`npm start` and head over to http://localhost:7770/ to view Reduxgram :)
+`npm start` 
+
+Got to [http://localhost:7770/](http://localhost:7770/) to view Reduxgram :)
 
